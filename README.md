@@ -44,7 +44,7 @@ Add a screenshot of your calculator here.
 
 **Anurag Kumar**
 
-GitHub: https://github.com/your-github-username
+GitHub:https://github.com/Anuragkumar6389/CodeAlpha_SmartCalculator/blob/main/README.md
 
 ---
 
